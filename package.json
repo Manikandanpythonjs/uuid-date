@@ -1,0 +1,18 @@
+{
+  "name": "uuid-with-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A package to generate a random UUID with the current date and time",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Manikandan AL",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manikandanpythonjs/uuid-date.git"
+  }
+}
